@@ -6,7 +6,7 @@ A modern, fully responsive **Google Gemini AI Chat Clone** built with pure HTML,
 
 ## 🖥️ Live Demo
 
-🔗 [View Live](https://your-vercel-deployment-url.vercel.app) ← *(update after deploying)*
+🔗 [View Live]((https://google-gemini-clone-rouge.vercel.app/)) 
 
 ---
 
