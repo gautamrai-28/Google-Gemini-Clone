@@ -12,7 +12,7 @@ let isResponseGenerating = false;
 
 // ── API CONFIGURATION ──
 //const API_KEY = YOUR_API_KEY_HERE; // 🔑 key is hidden in api/chat.js, not exposed to frontend
-const API_URL = "https://api.groq.com/openai/v1/chat/completions";
+const API_URL = "/api/chat";
 
 // ── LOAD SAVED DATA ──
 const loadLocalStorageData = () => {
